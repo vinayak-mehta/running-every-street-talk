@@ -1,1 +1,1 @@
-# 2025-europython
+# Slides for my talk on running every street in Paris
