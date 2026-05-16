@@ -22,12 +22,6 @@ CREATE EXTENSION postgis;
 Install dependencies with [uv](https://docs.astral.sh/uv/):
 
 ```bash
-uv sync
-```
-
-Or install from `requirements.txt`:
-
-```bash
 uv pip install -r requirements.txt
 ```
 
